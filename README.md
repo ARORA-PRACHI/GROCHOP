@@ -2,27 +2,23 @@
 
 GroChop is a full-stack modern web application that enables users to browse, search, and order groceries and daily essentials with ease. Designed to replicate the experience of platforms like Blinkit, GroChop offers a seamless user interface, secure authentication, and robust backend integrations with MySQL.
 <h1 align="center">
-  👋 Welcome to <span style="color:#16a34a;">GroChop</span> – Your Daily Grocery Buddy! 🛒
+  👋 Welcome to <span style="color:#16a34a;">GroChop</span> – Your Daily Essentials in a Go! 🛒
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Waving Grocery GIF" />
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Waving Grocery GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJoNWdpMXk2Y215OHEzbDJ6aW1lemVpeXNkbzFsaHU5YXc0cXM0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MRJNuE2rPe9ro7Cc1x/giphy.gif)" />
 </p>
 
 <p align="center">
   GroChop is a modern, full-stack grocery & essentials delivery platform that brings the supermarket to your doorstep! 🚪📦 <br />
-  Built with ❤️ using <strong>React, Vite, Tailwind CSS, Node.js, Express, and MySQL</strong>.
+  Built with using <strong>React, Vite, Tailwind CSS, Node.js, Express, and MySQL</strong>.
 </p>
 
 <p align="center">
   <a href="#🚀-features">Explore Features</a> • 
   <a href="#🛠️-tech-stack">Tech Stack</a> • 
-  <a href="#📸-screenshots">Screenshots</a> • 
   <a href="#📦-installation">Installation</a>
 </p>
-
-
-
 
 🚀 Features
 
